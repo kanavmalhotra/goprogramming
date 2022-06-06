@@ -13,3 +13,10 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
+# Ignore Mac system files
+.DS_store
+
+
+# Ignore VSCode files
+.vscode
